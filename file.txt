@@ -1,3 +1,10 @@
+azure
+azurev devops
+iaas
+pass
+saas
+vm
+vnrt
 rahul
 haha'baili'
 
